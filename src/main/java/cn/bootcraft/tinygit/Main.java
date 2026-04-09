@@ -1,9 +1,9 @@
-package dev.bootcraft.tinygit;
+package cn.bootcraft.tinygit;
 
 /**
  * tinygit — 教学版 Git 的 CLI 入口。
  * <p>
- * 用法: java dev.bootcraft.tinygit.Main &lt;command&gt; [&lt;args&gt;...]
+ * 用法: java cn.bootcraft.tinygit.Main &lt;command&gt; [&lt;args&gt;...]
  * <p>
  * 按 stage 顺序逐步取消注释 / 实现各个子命令。
  */

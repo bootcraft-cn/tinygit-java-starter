@@ -1,4 +1,4 @@
-package dev.bootcraft.tinygit;
+package cn.bootcraft.tinygit;
 
 import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;
